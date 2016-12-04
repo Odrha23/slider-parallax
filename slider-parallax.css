@@ -29,6 +29,13 @@
 	-ms-animation: fromRightAnim4 0.6s ease-in-out 0.8s both;
 	animation: fromRightAnim4 0.6s ease-in-out 0.8s both;
 }
+.da-slide-fromright .slide-icon-sosmed{
+	-webkit-animation: fromRightAnim4 0.6s ease-in-out 0.8s both;
+	-moz-animation: fromRightAnim4 0.6s ease-in-out 0.8s both;
+	-o-animation: fromRightAnim4 0.6s ease-in-out 0.8s both;
+	-ms-animation: fromRightAnim4 0.6s ease-in-out 0.8s both;
+	animation: fromRightAnim4 0.6s ease-in-out 0.8s both;
+}
 @-webkit-keyframes fromRightAnim1{
 	0%{ left: 110%; opacity: 0; }
 	100%{ left: 10%; opacity: 1; }
@@ -147,6 +154,13 @@
 	-ms-animation: fromLeftAnim4 0.6s ease-in-out 0.6s both;
 	animation: fromLeftAnim4 0.6s ease-in-out 0.6s both;
 }
+.da-slide-fromleft .slide-icon-sosmed{
+	-webkit-animation: fromLeftAnim4 0.6s ease-in-out 0.6s both;
+	-moz-animation: fromLeftAnim4 0.6s ease-in-out 0.6s both;
+	-o-animation: fromLeftAnim4 0.6s ease-in-out 0.6s both;
+	-ms-animation: fromLeftAnim4 0.6s ease-in-out 0.6s both;
+	animation: fromLeftAnim4 0.6s ease-in-out 0.6s both;
+}
 @-webkit-keyframes fromLeftAnim1{
 	0%{ left: -110%; opacity: 0; }
 	100%{ left: 10%; opacity: 1; }
@@ -259,6 +273,13 @@
 	animation: toRightAnim3 0.4s ease-in-out both;
 }
 .da-slide-toright .da-img{
+	-webkit-animation: toRightAnim4 0.6s ease-in-out both;
+	-moz-animation: toRightAnim4 0.6s ease-in-out both;
+	-o-animation: toRightAnim4 0.6s ease-in-out both;
+	-ms-animation: toRightAnim4 0.6s ease-in-out both;
+	animation: toRightAnim4 0.6s ease-in-out both;
+}
+.da-slide-toright .slide-icon-sosmed{
 	-webkit-animation: toRightAnim4 0.6s ease-in-out both;
 	-moz-animation: toRightAnim4 0.6s ease-in-out both;
 	-o-animation: toRightAnim4 0.6s ease-in-out both;
@@ -388,6 +409,14 @@
 	-ms-animation: toLeftAnim4 0.6s ease-in-out 0.5s both;
 	animation: toLeftAnim4 0.6s ease-in-out 0.5s both;
 }
+.da-slide-toleft .slide-icon-sosmed{
+	-webkit-animation: toLeftAnim4 0.6s ease-in-out 0.5s both;
+	-moz-animation: toLeftAnim4 0.6s ease-in-out 0.5s both;
+	-o-animation: toLeftAnim4 0.6s ease-in-out 0.5s both;
+	-ms-animation: toLeftAnim4 0.6s ease-in-out 0.5s both;
+	animation: toLeftAnim4 0.6s ease-in-out 0.5s both;
+}
+
 @-webkit-keyframes toLeftAnim1{
 	0%{ left: 10%;  opacity: 1; }
 	30%{ left: 15%;  opacity: 1; }
